@@ -1429,7 +1429,7 @@ These resources document earlier testnets and are not current node installation 
 
 #### Tools
 
-- **Celestia TrackerBot**: Wallet, validator and Bridge alerts; Fibre alerts. [Mainnet](https://t.me/Celestia_TrackerBot) · [Testnet](https://t.me/Celestia_Testnet_TrackerBot)
+- **Celestia TrackerBot**: Wallet, validator, Bridge alerts and Fibre alerts on Telegram Bot. [Mainnet](https://t.me/Celestia_TrackerBot) · [Testnet](https://t.me/Celestia_Testnet_TrackerBot)
 - **NodeStake Explorer**: Blocks, transactions, staking and governance. [Mainnet](https://explorer.nodestake.org/celestia) · [Testnet](https://explorer.nodestake.org/celestia-testnet)
 - **Fibre Explorer**: Providers, parameters, indexed settlements and signatures. [Mainnet](https://explorer.nodestake.org/celestia/tools/fibre) · [Testnet](https://explorer.nodestake.org/celestia-testnet/tools/fibre)
 - **Celestia MCP**: Eight read-only chain and account tools; history depends on node retention. [Mainnet](https://nodestake.org/networks/celestia/mainnet?tab=mcp) · [Testnet](https://nodestake.org/networks/celestia/testnet?tab=mcp)
